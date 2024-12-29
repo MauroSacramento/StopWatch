@@ -21,6 +21,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
 }
 
 .stopwatch{
@@ -31,8 +32,9 @@ body{
 }
 
 .title {
-    font-size: 30px;
+    font-size: 25px;
     margin-bottom: 1.5rem;
+    margin-top: .4rem;
 }
 
 .timer{
